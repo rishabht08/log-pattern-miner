@@ -1,0 +1,11 @@
+# Go build artifacts
+/bin/
+/build/
+/*.exe
+/*.out
+/*.test
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
